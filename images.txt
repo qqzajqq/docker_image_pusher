@@ -1,1 +1,1 @@
-grafana/loki：3.0.0
+grafana/loki:3.0.0
