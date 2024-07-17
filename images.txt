@@ -1,2 +1,1 @@
-grafana/loki:3.0.0
-grafana/promtail:3.0.0
+metrics-server:v0.7.1
