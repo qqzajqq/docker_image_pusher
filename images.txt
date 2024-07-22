@@ -1,1 +1,1 @@
-php:8-apache
+open-webui:v0.3.10
