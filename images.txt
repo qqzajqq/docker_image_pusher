@@ -1,1 +1,1 @@
-elastic/logstash:8.14.3
+elastic/elasticsearch:8.14.3
