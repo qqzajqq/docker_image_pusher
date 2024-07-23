@@ -1,1 +1,1 @@
-docker.io/kubernetesui/dashboard-web
+docker.io/kubernetesui/dashboard-metrics-scraper
