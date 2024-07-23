@@ -1,1 +1,1 @@
-kong:3.6
+elastic/logstash:8.14.3
