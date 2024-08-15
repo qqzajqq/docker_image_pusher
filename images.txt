@@ -1,2 +1,1 @@
-rancher/rancher-agent:v2.9.0
-rancher/rancher:v2.9.0
+kubernetes/dashboard:v2.7.0
